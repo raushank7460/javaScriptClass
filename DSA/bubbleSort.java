@@ -1,9 +1,6 @@
-package DAA;
+package DSA;
 
 import java.util.Scanner;
-
-
-
 public class bubbleSort {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
